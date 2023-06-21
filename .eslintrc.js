@@ -2,6 +2,7 @@ module.exports = {
     env: {
         browser: true,
         es2021: true,
+        jest: true
     },
     extends: [
         'eslint:recommended',
@@ -46,7 +47,7 @@ module.exports = {
         'react/function-component-definition': 0,
         "no-shadow": "off",
         "import/extensions": "off",
-        "i18next/no-literal-string": ['error', {markupOnly: true}]
+        "i18next/no-literal-string": ['error', {markupOnly: true}],
     },
     globals: {
         "__IS_DEV__": true,
