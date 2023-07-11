@@ -24,11 +24,10 @@ export const Navbar = ({ className }: NavbarProps) => {
                 className={cls.links}
                 onClick={onToggleModal}
             >
-                Войти
+                {t('Войти')}
             </Button>
             <Modal isOpen={isAuthModal} onClose={onToggleModal}>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Aperiam aspernatur facilis mollitia?
+                {t('Lorem ipsum dolor sit amet, consectetur adipisicing elit.Aperiam aspernatur facilis mollitia?')}
             </Modal>
         </div>
     );
