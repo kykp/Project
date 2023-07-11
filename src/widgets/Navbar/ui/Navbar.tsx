@@ -26,7 +26,10 @@ export const Navbar = ({ className }: NavbarProps) => {
             >
                 Войти
             </Button>
-            <Modal isOpen={isAuthModal} onClose={onToggleModal} />
+            <Modal isOpen={isAuthModal} onClose={onToggleModal}>
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Aperiam aspernatur facilis mollitia?
+            </Modal>
         </div>
     );
 };
