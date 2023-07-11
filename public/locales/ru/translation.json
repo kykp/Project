@@ -13,5 +13,6 @@
   "Переключить": "Переключить",
   "Короткий язык": "Ru",
   "Войти": "Войти",
-  "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Aperiam aspernatur facilis mollitia?": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Aperiam aspernatur facilis mollitia?"
+  "increment": "increment",
+  "decrement": "decrement"
 }

@@ -12,6 +12,7 @@
   "О сайте": "About us",
   "Переключить": "Переключить",
   "Короткий язык": "En",
-  "Войти": "Войти",
-  "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Aperiam aspernatur facilis mollitia?": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Aperiam aspernatur facilis mollitia?"
+  "Войти": "Login",
+  "increment": "increment",
+  "decrement": "decrement"
 }
